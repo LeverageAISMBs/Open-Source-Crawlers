@@ -1,0 +1,7 @@
+{
+  "name": "The Digital Harvest",
+  "description": "Executive Technical Report on the state of Open Source Crawlers, featuring dynamic visualization and interactive analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
